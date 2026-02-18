@@ -24,7 +24,7 @@ pip install tensorflow>=2.8.0 flask pillow numpy matplotlib
 python neural_style_transfer_webapp.py
 ```
 3. Open your browser to `http://localhost:5000`
-
+---
 ### Usage
 1. Upload a content image (the image you want to stylize)
 2. Upload a style image (the artistic style to apply)
