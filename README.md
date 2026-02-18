@@ -54,7 +54,7 @@ neural-style-transfer-webapp/
 - **Content Layers**: `block5_conv2`
 - **Style Layers**: `block1_conv1` through `block5_conv1`
 - **Optimization**: Adam optimizer with custom loss function
-
+--
 ### Loss Function
 ```python
 Total Loss = α × Content Loss + β × Style Loss + γ × Total Variation Loss
