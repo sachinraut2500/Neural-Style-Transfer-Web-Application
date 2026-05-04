@@ -1,5 +1,5 @@
 # 🎨 Neural Style Transfer Web Application
----------
+-----------
 A professional-grade web application that applies artistic styles to images using deep learning and TensorFlow. This project implements the famous Neural Style Transfer algorithm with a user-friendly web interface.
 ---------
 ## 🌟 Features
