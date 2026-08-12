@@ -34,7 +34,7 @@ python neural_style_transfer_webapp.py
 
 ## 🏗️ Project Structure
 
-```
+```````
 neural-style-transfer-webapp/
 ├── neural_style_transfer_webapp.py    # Main application file
 ├── README.md                          # This file
